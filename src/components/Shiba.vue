@@ -13,6 +13,7 @@
         height="174"
         viewBox="0 0 152 174"
       >
+      
         <title>Mochi Shiba</title>
         <defs>
           <radialGradient
